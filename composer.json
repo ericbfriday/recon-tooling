@@ -24,7 +24,7 @@
         "maatwebsite/excel": "^3.1",
         "nopjmp/discord-webhooks": "^0.3.1",
         "nullx27/eveonline-socialite": "^0.5.0",
-        "paragonie/random_compat": "~1.4",
+        "paragonie/random_compat": "~2.0",
         "platformsh/laravel-bridge": "^2.0",
         "predis/predis": "^1.1",
         "proengsoft/laravel-jsvalidation": "2.1.*",
